@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
 	<h1>Branching Website Practice</h1>
 </head>
@@ -14,4 +13,3 @@
 		<p>This project has been created by Sunday Juma on 23rd.Nov.2018</p>
 	<h1>License</h1>
 		<a href="https://choosealicense.com/licenses/mit/">MIT LICENSE</a>
-</html>
